@@ -3,6 +3,8 @@
 
 Welcome to the Digital Circuit Design course! This folder contains all materials for a comprehensive 15-week course on digital logic and FPGA design.
 
+The website can be found at [here](https://lbaitemple.github.io/ECE2612_DCD/).
+
 ---
 
 ## 📚 Course Structure
