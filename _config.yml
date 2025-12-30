@@ -3,7 +3,7 @@ description: Comprehensive digital circuit design course with FPGA implementatio
 remote_theme: just-the-docs/just-the-docs
 
 url: https://lbaitemple.github.io
-baseurl: /digital-circuit-design-2026
+baseurl: /ECE2612_DCD/
 
 plugins:
   - jekyll-remote-theme
@@ -28,4 +28,4 @@ footer_content: "Digital Circuit Design &copy; 2026. Distributed under MIT Licen
 # Aux links
 aux_links:
   "Course on GitHub":
-    - "https://github.com/yourusername/digital-circuit-design-2026"
+    - "https://github.com/lbaitemplee/ECE2612_DCD/"
