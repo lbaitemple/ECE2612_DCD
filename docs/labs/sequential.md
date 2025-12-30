@@ -4,6 +4,7 @@ title: Sequential Logic Labs
 parent: Labs & Exercises
 nav_order: 2
 has_children: true
+permalink: /docs/labs/sequential/
 ---
 
 # Sequential Logic Labs
@@ -27,11 +28,33 @@ These labs cover sequential logic concepts:
 
 ## Lab Sequence
 
-1. **Lab 5**: Flip-flops and registers
-2. **Lab 5a**: Introduction to FSMs
-3. **Lab 6**: Counters and timers
-4. **Lab 7**: Finite state machine design
-5. **Lab 8**: Memory systems and advanced topics
+| Lab | Title | Week | Topics |
+|-----|-------|------|--------|
+| [Lab 5a](lab5a) | Latches and Flip-flops | 8 | SR latch, D latch, D flip-flop, registers |
+| [Lab 5](lab5) | Shift Logic | 9 | Logical/arithmetic shift, barrel shifter |
+| [Lab 6](lab6) | Multiple Digit Display | 10 | Display multiplexing, refresh counters |
+| [Lab 7](lab7) | Rotary Encoder | 11-12 | Quadrature decoding, FSM, debouncing |
+| [Lab 8](lab8) | Memory Systems | 13 | Register file, multi-port memory |
+
+---
+
+## Learning Path
+
+```
+← Combinational Logic Labs (Complete first)
+    ↓
+Lab 5a: Latches & Flip-flops (Sequential fundamentals)
+    ↓
+Lab 5: Shift Logic (Combinational shifters)
+    ↓
+Lab 6: Multi-Digit Display (Counter + multiplexing)
+    ↓
+Lab 7: Rotary Encoder (FSM application)
+    ↓
+Lab 8: Memory Systems (Register file design)
+    ↓
+→ Final Project
+```
 
 ---
 
@@ -50,11 +73,11 @@ Each lab includes:
 ## Required Skills
 
 Before starting sequential labs, you should:
-- ✅ Understand combinational logic
+- ✅ Complete all combinational logic labs (Labs 1-4)
 - ✅ Be proficient in Verilog/SystemVerilog
 - ✅ Know how to use Quartus and ModelSim
 - ✅ Be comfortable with FPGA programming
-- ✅ Understand binary arithmetic
+- ✅ Understand seven-segment displays
 
 ---
 
@@ -113,11 +136,10 @@ Sequential labs require:
 
 ## Resources
 
-- [FSM Design Tutorial](../../resources#fsm-design)
-- [Timing Analysis Guide](../../resources#timing)
-- [Sequential Verilog Patterns](../../resources#verilog-patterns)
-- [State Machine Coding Styles](../../resources#coding-styles)
+- [Lab Resources](../../resources/lab-resources/)
+- [AWS Cloud Setup](../../preparation/aws-setup/)
+- [DE10-Lite Pin Assignments](../../resources/lab-resources/)
 
 ---
 
-**Start with [Lab 5: Flip-Flops and Registers](lab5) to begin sequential design!**
+**Start with [Lab 5a: Latches and Flip-flops](lab5a) to begin sequential design!**

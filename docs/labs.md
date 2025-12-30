@@ -23,81 +23,130 @@ Each lab includes:
 
 ---
 
-## Combinational Logic Labs
+## Lab Categories
 
-### [Lab 1: Introduction to Verilog HDL](labs/combinational/lab1)
-**Week 1-2** | Learn Verilog basics and FPGA design flow
-- SystemVerilog vs Verilog
-- Design flow and simulation
-- FPGA synthesis and programming
-- LED control circuits
+### [Combinational Logic Labs](combinational/)
+**Labs 1-4** | Weeks 1-7
 
-### [Lab 2: Logic Gates and Truth Tables](labs/combinational/lab2)
-**Week 2-3** | Implement basic logic gates
-- AND, OR, NOT, NAND, NOR, XOR gates
-- Truth table verification
-- Multi-level logic circuits
-- Testbench development
+Fundamental digital design concepts including:
+- Verilog HDL introduction and design flow
+- Testbench development and verification
+- Seven-segment display interfacing
+- Error correction codes (Hamming)
 
-### [Lab 2a: Seven-Segment Display](labs/combinational/lab2a)
-**Week 3** | Build 7-segment display decoder
-- BCD to 7-segment decoder
-- Hexadecimal display
-- Display multiplexing
-
-### [Lab 3: Multiplexers and Decoders](labs/combinational/lab3)
-**Week 3-4** | Design combinational building blocks
-- 4:1 and 8:1 multiplexers
-- 2:4 and 3:8 decoders
-- Priority encoders
-
-### [Lab 3a: Adders and Arithmetic](labs/combinational/lab3a)
-**Week 4-5** | Implement arithmetic circuits
-- Half-adder and full-adder
-- 4-bit ripple-carry adder
-- Carry lookahead logic
-- ALU design
-
-### [Lab 4: K-Map Minimization and Optimization](labs/combinational/lab4)
-**Week 5** | Practice logic minimization
-- 3-variable and 4-variable K-maps
-- Don't care conditions
-- Logic optimization techniques
+| Lab | Title | Week |
+|-----|-------|------|
+| [Lab 1](combinational/lab1) | Introduction to Verilog HDL | 1-2 |
+| [Lab 2a](combinational/lab2a) | Introduction to Testbenches | 3 |
+| [Lab 2](combinational/lab2) | Encoder Design (ECC) | 4 |
+| [Lab 3a](combinational/lab3a) | Connecting to DE10-Lite | 5 |
+| [Lab 3](combinational/lab3) | Seven-Segment Display | 6 |
+| [Lab 4](combinational/lab4) | Hamming(7,4) Decoder | 7 |
 
 ---
 
-## Sequential Logic Labs
+### [Sequential Logic Labs](sequential/)
+**Labs 5-8** | Weeks 8-13
 
-### [Lab 5: Flip-Flops and Registers](labs/sequential/lab5)
-**Week 6-7** | Study sequential storage elements
-- D, JK, T flip-flops
-- Edge-triggered behavior
-- Register design
-- Setup and hold time analysis
+Advanced sequential circuit design including:
+- Flip-flops, latches, and registers
+- Shifters and barrel shifters
+- Display multiplexing with counters
+- Finite state machines for real devices
+- Memory systems and register files
 
-### [Lab 5a: Introduction to FSMs](labs/sequential/lab5a)
-**Week 7** | Introduction to state machines
-- FSM concepts (Moore vs Mealy)
-- Simple sequence detector
-- State diagram design
+| Lab | Title | Week |
+|-----|-------|------|
+| [Lab 5a](sequential/lab5a) | Latches and Flip-flops | 8 |
+| [Lab 5](sequential/lab5) | Shift Logic | 9 |
+| [Lab 6](sequential/lab6) | Multiple Digit Display | 10 |
+| [Lab 7](sequential/lab7) | Rotary Encoder | 11-12 |
+| [Lab 8](sequential/lab8) | Memory Systems | 13 |
 
-### [Lab 6: Counters and Timers](labs/sequential/lab6)
-**Week 7-8** | Design and implement counters
-- Binary up/down counter
-- Modulo-N counter
-- BCD counter
-- Digital clock design
+---
 
-### [Lab 7: Finite State Machines](labs/sequential/lab7)
-**Week 8-9** | Build complex state machines
-- Traffic light controller
-- Vending machine FSM
-- Sequence detectors
-- Protocol controllers
+## Learning Progression
 
-### [Lab 8: Memory and Advanced Topics](labs/sequential/lab8)
-**Week 10-11** | Work with memory and advanced concepts
-- ROM and RAM design
+```
+┌─────────────────────────────────────────────────────────────┐
+│  COMBINATIONAL LOGIC LABS (Weeks 1-7)                       │
+├─────────────────────────────────────────────────────────────┤
+│  Lab 1 → Lab 2a → Lab 2 → Lab 3a → Lab 3 → Lab 4           │
+│  Verilog  Testbench  ECC    Pins   7-Seg   Decoder         │
+└─────────────────────────────────────────────────────────────┘
+                          ↓
+┌─────────────────────────────────────────────────────────────┐
+│  SEQUENTIAL LOGIC LABS (Weeks 8-13)                         │
+├─────────────────────────────────────────────────────────────┤
+│  Lab 5a → Lab 5 → Lab 6 → Lab 7 → Lab 8                    │
+│  Flip-flop Shift  Display  FSM    Memory                   │
+└─────────────────────────────────────────────────────────────┘
+                          ↓
+┌─────────────────────────────────────────────────────────────┐
+│  FINAL PROJECT (Week 14)                                    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Lab Policies
+
+### Equipment
+- FPGA boards available for checkout
+- Lab computers with Quartus installed
+- Remote access available for simulation
+
+### Lab Hours
+- Check syllabus for current schedule
+- TAs available for assistance
+
+### Submission
+- Due dates: See course schedule
+- Submit via Canvas
+- Include: Code, screenshots, report
+
+### Grading
+- **Pre-lab**: 10%
+- **Implementation**: 50%
+- **Testing/Demo**: 25%
+- **Report**: 15%
+
+---
+
+## Lab Resources
+
+### Templates & Documentation
+- [Lab Report Template](resources/lab-resources/)
+- [DE10-Lite Pin Assignments](resources/lab-resources/)
+- [Grading Rubric](resources/lab-resources/)
+
+### Setup Guides
+- [AWS Cloud Setup](preparation/aws-setup/)
+- [Draw.io Guide](preparation/drawio/)
+
+### Reference Files
+Located in `labs/etc/`:
+- [DE10_LITE_Default.pof](etc/DE10_LITE_Default%20(1).pof) - Default configuration
+- [Scratchpad.xml](etc/Scratchpad.xml) - Draw.io library
+- [ECE.xml](etc/ECE.xml) - Draw.io components
+
+---
+
+## Getting Help
+
+### During Lab Hours
+- Ask TA for assistance
+- Work with lab partners
+- Use available documentation
+
+### Outside Lab
+- Post on discussion board
+- Attend office hours
+- Email instructor with specific questions
+
+---
+
+**Ready to start? Begin with [Lab 1: Introduction to Verilog HDL](combinational/lab1)!**
 - FIFO buffer implementation
 - Memory interfacing
 - Clock domain crossing

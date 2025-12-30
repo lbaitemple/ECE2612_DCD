@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lab 3: Seven Segment Display"
+title: "Lab 3: Seven-Segment Display"
 parent: Combinational Logic Labs
 grand_parent: Labs & Exercises
 nav_order: 5

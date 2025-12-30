@@ -4,6 +4,7 @@ title: Combinational Logic Labs
 parent: Labs & Exercises
 nav_order: 1
 has_children: true
+permalink: /docs/labs/combinational/
 ---
 
 # Combinational Logic Labs
@@ -27,12 +28,34 @@ These labs cover fundamental concepts in combinational logic design:
 
 ## Lab Sequence
 
-1. **Lab 1**: Introduction to Verilog HDL and design flow
-2. **Lab 2a**: Testbench development and simulation
-3. **Lab 2**: Encoder design (Error Correction Codes)
-4. **Lab 3a**: Connecting to DE10-Lite FPGA hardware
-5. **Lab 3**: Seven-segment display decoder
-6. **Lab 4**: Hamming(7,4) error correction code
+| Lab | Title | Week | Topics |
+|-----|-------|------|--------|
+| [Lab 1](lab1) | Introduction to Verilog HDL | 1-2 | Gate primitives, design flow, simulation |
+| [Lab 2a](lab2a) | Introduction to Testbenches | 3 | Self-checking testbenches, verification |
+| [Lab 2](lab2) | Encoder Design (ECC) | 4 | Hamming(7,4) encoder, XOR parity |
+| [Lab 3a](lab3a) | Connecting to DE10-Lite | 5 | QSF files, pin assignments, I/O mapping |
+| [Lab 3](lab3) | Seven-Segment Display | 6 | BCD decoder, hex display, case statements |
+| [Lab 4](lab4) | Hamming(7,4) Decoder | 7 | Error correction, syndrome detection |
+
+---
+
+## Learning Path
+
+```
+Lab 1: Verilog Basics & Gates
+    ↓
+Lab 2a: Testbench Development
+    ↓
+Lab 2: Hamming Encoder (Apply XOR, combinational design)
+    ↓
+Lab 3a: Hardware Connections (Learn pin assignments)
+    ↓
+Lab 3: Seven-Segment Display (Case statements, hardware I/O)
+    ↓
+Lab 4: Hamming Decoder (Complete ECC system)
+    ↓
+→ Sequential Logic Labs
+```
 
 ---
 
@@ -80,10 +103,9 @@ All labs require:
 
 ## Resources
 
-- [Verilog Quick Reference](../../resources#verilog-reference)
-- [Quartus Tutorial](../../preparation#quartus-setup)
-- [DE10-Lite User Manual](../../resources#fpga-documentation)
-- [Lab Safety Guidelines](../../preparation#lab-safety)
+- [Verilog Quick Reference](../../resources/)
+- [AWS Cloud Setup](../../preparation/aws-setup/)
+- [DE10-Lite Pin Assignments](../../resources/lab-resources/)
 
 ---
 

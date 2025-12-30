@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lab 3a: Connecting to DE10-Lite Hardware"
+title: "Lab 3a: Connecting to DE10-Lite"
 parent: Combinational Logic Labs
 grand_parent: Labs & Exercises
 nav_order: 4
