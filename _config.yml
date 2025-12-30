@@ -8,6 +8,13 @@ baseurl: /ECE2612_DCD/
 plugins:
   - jekyll-remote-theme
 
+# Include directories
+include:
+  - _includes
+
+# Enable MathJax for mathematical expressions
+# The head_custom.html file in _includes loads MathJax v3
+
 # Enable search
 search_enabled: true
 search:
