@@ -3,6 +3,7 @@ layout: default
 title: Module 8 - Counters & Registers
 parent: Course Modules
 nav_order: 9
+permalink: /docs/modules/module-08/
 ---
 
 # Module 8: Counters, Shift Registers, and Timers

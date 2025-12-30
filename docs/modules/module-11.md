@@ -3,6 +3,7 @@ layout: default
 title: Module 11 - Advanced Topics
 parent: Course Modules
 nav_order: 12
+permalink: /docs/modules/module-11/
 ---
 
 # Module 11: Advanced Digital Design Topics

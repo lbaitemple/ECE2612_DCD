@@ -3,6 +3,7 @@ layout: default
 title: Module 0 - Introduction
 parent: Course Modules
 nav_order: 1
+permalink: /docs/modules/module-00/
 ---
 
 # Module 0: Course Introduction & Software Setup

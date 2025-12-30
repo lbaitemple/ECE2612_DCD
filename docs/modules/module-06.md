@@ -3,6 +3,7 @@ layout: default
 title: Module 6 - Latches & Flip-Flops
 parent: Course Modules
 nav_order: 7
+permalink: /docs/modules/module-06/
 ---
 
 # Module 6: Latches and Flip-Flops

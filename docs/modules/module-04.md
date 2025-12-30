@@ -3,6 +3,7 @@ layout: default
 title: Module 4 - Number Systems
 parent: Course Modules
 nav_order: 5
+permalink: /docs/modules/module-04/
 ---
 
 # Module 4: Number Systems & Binary Representation

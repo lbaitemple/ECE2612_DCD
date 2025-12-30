@@ -3,6 +3,7 @@ layout: default
 title: Module 10 - Memory Systems
 parent: Course Modules
 nav_order: 11
+permalink: /docs/modules/module-10/
 ---
 
 # Module 10: Memory Systems

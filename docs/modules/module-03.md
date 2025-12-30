@@ -3,6 +3,7 @@ layout: default
 title: Module 3 - Verilog HDL
 parent: Course Modules
 nav_order: 4
+permalink: /docs/modules/module-03/
 ---
 
 # Module 3: Verilog HDL Basics

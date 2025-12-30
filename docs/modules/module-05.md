@@ -3,6 +3,7 @@ layout: default
 title: Module 5 - Binary Arithmetic
 parent: Course Modules
 nav_order: 6
+permalink: /docs/modules/module-05/
 ---
 
 # Module 5: Binary Arithmetic & ALU Design

@@ -3,6 +3,7 @@ layout: default
 title: Module 1 - Digital Logic Fundamentals
 parent: Course Modules
 nav_order: 2
+permalink: /docs/modules/module-01/
 ---
 
 # Module 1: Digital Logic Fundamentals

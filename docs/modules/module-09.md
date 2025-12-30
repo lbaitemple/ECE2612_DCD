@@ -3,6 +3,7 @@ layout: default
 title: Module 9 - Finite State Machines
 parent: Course Modules
 nav_order: 10
+permalink: /docs/modules/module-09/
 ---
 
 # Module 9: Finite State Machines (FSM)

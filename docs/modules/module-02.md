@@ -3,6 +3,7 @@ layout: default
 title: Module 2 - Combinational Logic
 parent: Course Modules
 nav_order: 3
+permalink: /docs/modules/module-02/
 ---
 
 # Module 2: Combinational Logic Design

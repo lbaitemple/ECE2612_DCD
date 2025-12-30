@@ -3,6 +3,7 @@ layout: default
 title: Module 7 - Sequential Design
 parent: Course Modules
 nav_order: 8
+permalink: /docs/modules/module-07/
 ---
 
 # Module 7: Sequential Circuit Design
