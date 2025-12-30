@@ -3,6 +3,7 @@ layout: default
 title: Resources
 nav_order: 6
 permalink: /docs/resources/
+has_children: true
 ---
 
 # Course Resources
@@ -12,6 +13,13 @@ Additional learning materials, references, and tools to support your success in 
 ---
 
 ## Quick Reference
+
+### [Lab Resources](lab-resources/)
+Essential templates, documentation, and guides
+- Lab report templates
+- Grading rubrics
+- DE10-Lite pin assignments
+- AWS setup guide
 
 ### [Verilog Quick Reference](verilog-reference/)
 Essential Verilog syntax and patterns

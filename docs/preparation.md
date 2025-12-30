@@ -12,6 +12,28 @@ Welcome to Digital Circuit Design! This section will help you set up your develo
 
 ---
 
+## Preparation Guides
+
+### [Computer Requirements](computer-requirements/)
+Software and account setup checklist
+- Laptop specifications
+- Required software accounts
+- Template downloads
+
+### [AWS Cloud Setup](aws-setup/)
+Cloud development environment configuration
+- AWS Academy account setup
+- Cloud9 IDE configuration
+- Quartus installation on AWS
+
+### [Draw.io Guide](drawio/)
+Block diagram creation with Draw.io
+- Getting started with Draw.io
+- Importing custom libraries
+- Practice exercises
+
+---
+
 ## Quick Start Checklist
 
 - [ ] Install Intel Quartus Prime Lite Edition

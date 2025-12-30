@@ -1,8 +1,9 @@
 ---
 layout: default
-title: AWS Setup Guide
+title: AWS Cloud Setup
 parent: Preparation
-nav_order: 2.02
+nav_order: 2
+permalink: /docs/preparation/aws-setup/
 ---
 
 # AWS Setup Guide for Digital Circuit Design

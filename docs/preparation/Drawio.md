@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Draw.io
+title: Draw.io Guide
 parent: Preparation
-nav_order: 2.03
+nav_order: 3
+permalink: /docs/preparation/drawio/
 ---
 
 # How to Use Draw.io for Block Diagrams
