@@ -1,0 +1,31 @@
+title: Digital Circuit Design 2026
+description: Comprehensive digital circuit design course with FPGA implementation
+remote_theme: just-the-docs/just-the-docs
+
+url: https://lbaitemple.github.io
+baseurl: /digital-circuit-design-2026
+
+plugins:
+  - jekyll-remote-theme
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Color scheme
+color_scheme: light
+
+# Footer
+footer_content: "Digital Circuit Design &copy; 2026. Distributed under MIT License."
+
+# Aux links
+aux_links:
+  "Course on GitHub":
+    - "https://github.com/yourusername/digital-circuit-design-2026"
