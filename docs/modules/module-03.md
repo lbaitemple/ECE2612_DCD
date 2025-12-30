@@ -9,8 +9,6 @@ permalink: /docs/modules/module-03/
 # Module 3: Verilog HDL Basics
 **Week 4**
 
-[View Full Module Content](../../../Module_03_Verilog_HDL.md)
-
 ---
 
 ## Overview

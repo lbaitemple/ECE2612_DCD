@@ -9,8 +9,6 @@ permalink: /docs/modules/module-11/
 # Module 11: Advanced Digital Design Topics
 **Week 14**
 
-[View Full Module Content](../../../Module_11_Advanced_Topics.md)
-
 ---
 
 ## Overview

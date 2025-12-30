@@ -9,8 +9,6 @@ permalink: /docs/modules/module-00/
 # Module 0: Course Introduction & Software Setup
 **Week 1**
 
-[View Full Module Content](../../../Module_00_Introduction.md)
-
 ---
 
 ## Overview

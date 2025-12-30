@@ -9,8 +9,6 @@ permalink: /docs/modules/module-01/
 # Module 1: Digital Logic Fundamentals
 **Weeks 1-2**
 
-[View Full Module Content](../../../Module_01_Logic_Fundamentals.md)
-
 ---
 
 ## Overview

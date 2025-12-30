@@ -9,8 +9,6 @@ permalink: /docs/modules/module-09/
 # Module 9: Finite State Machines (FSM)
 **Weeks 11-12**
 
-[View Full Module Content](../../../Module_09_Finite_State_Machines.md)
-
 ---
 
 ## Overview

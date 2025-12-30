@@ -9,8 +9,6 @@ permalink: /docs/modules/module-04/
 # Module 4: Number Systems & Binary Representation
 **Week 5**
 
-[View Full Module Content](../../../Module_04_Number_Systems.md)
-
 ---
 
 ## Overview

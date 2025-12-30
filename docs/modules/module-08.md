@@ -9,8 +9,6 @@ permalink: /docs/modules/module-08/
 # Module 8: Counters, Shift Registers, and Timers
 **Week 10**
 
-[View Full Module Content](../../../Module_08_Counters_Registers.md)
-
 ---
 
 ## Overview

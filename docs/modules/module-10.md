@@ -9,8 +9,6 @@ permalink: /docs/modules/module-10/
 # Module 10: Memory Systems
 **Week 13**
 
-[View Full Module Content](../../../Module_10_Memory_Systems.md)
-
 ---
 
 ## Overview

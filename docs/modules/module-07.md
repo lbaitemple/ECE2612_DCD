@@ -9,8 +9,6 @@ permalink: /docs/modules/module-07/
 # Module 7: Sequential Circuit Design
 **Weeks 8-9**
 
-[View Full Module Content](../../../Module_07_Sequential_Design.md)
-
 ---
 
 ## Overview

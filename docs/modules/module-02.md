@@ -9,8 +9,6 @@ permalink: /docs/modules/module-02/
 # Module 2: Combinational Logic Design
 **Weeks 2-3**
 
-[View Full Module Content](../../../Module_02_Combinational_Logic.md)
-
 ---
 
 ## Overview

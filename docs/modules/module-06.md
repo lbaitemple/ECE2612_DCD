@@ -9,8 +9,6 @@ permalink: /docs/modules/module-06/
 # Module 6: Latches and Flip-Flops
 **Weeks 7-8**
 
-[View Full Module Content](../../../Module_06_Latches_Flipflops.md)
-
 ---
 
 ## Overview

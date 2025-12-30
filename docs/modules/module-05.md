@@ -9,8 +9,6 @@ permalink: /docs/modules/module-05/
 # Module 5: Binary Arithmetic & ALU Design
 **Week 6**
 
-[View Full Module Content](../../../Module_05_Binary_Arithmetic.md)
-
 ---
 
 ## Overview
