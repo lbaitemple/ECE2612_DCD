@@ -8,8 +8,6 @@ permalink: /docs/syllabus/
 # Digital Circuit Design - Course Syllabus
 ## ECE 2612 - Spring 2026
 
-[Download PDF Version](../../SYLLABUS.md)
-
 ---
 
 ## Course Information
