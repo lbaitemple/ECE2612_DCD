@@ -20,7 +20,7 @@ This guide covers:
 ## AWS Console Management
 
 <div style="text-align:center">
-<img src="images/aws_man_console.png" alt="AWS Management Console" />
+<img src="../images/aws_man_console.png" alt="AWS Management Console" />
 <p><em>Figure: AWS Management Console</em></p>
 </div>
 
@@ -45,7 +45,7 @@ Key services we'll use:
 1. Check for an email from **AWS Academy** in your Temple email
 
 <div style="text-align:center">
-<img src="images/awsemail.png" alt="AWS Academy Email" />
+<img src="../images/awsemail.png" alt="AWS Academy Email" />
 <p><em>Figure: AWS Academy invitation email</em></p>
 </div>
 
@@ -57,7 +57,7 @@ Key services we'll use:
 - Access the [AWS Academy Canvas Console](https://awsacademy.instructure.com/)
 
 <div style="text-align:center">
-<img src="images/awscanvas.png" alt="AWS Canvas" />
+<img src="../images/awscanvas.png" alt="AWS Canvas" />
 <p><em>Figure: AWS Academy Canvas Console</em></p>
 </div>
 
@@ -74,7 +74,7 @@ Key services we'll use:
 1. Click **Create environment**
 
 <div style="text-align:center">
-<img src="images/create_cloud.png" alt="Create Cloud9" />
+<img src="../images/create_cloud.png" alt="Create Cloud9" />
 <p><em>Figure: Create Cloud9 environment</em></p>
 </div>
 
@@ -84,7 +84,7 @@ Key services we'll use:
 ### Select EC2 Instance Type
 
 <div style="text-align:center">
-<img src="images/cloud9_instance.png" alt="Cloud9 Instance Selection" />
+<img src="../images/cloud9_instance.png" alt="Cloud9 Instance Selection" />
 <p><em>Figure: Cloud9 EC2 instance type selection</em></p>
 </div>
 
@@ -97,14 +97,14 @@ Key services we'll use:
 ### Select Operating System
 
 <div style="text-align:center">
-<img src="images/cloud9_os.png" alt="Cloud9 OS Selection" />
+<img src="../images/cloud9_os.png" alt="Cloud9 OS Selection" />
 <p><em>Figure: Cloud9 operating system selection</em></p>
 </div>
 
 ### Create the Environment
 
 <div style="text-align:center">
-<img src="images/cloud9_create.png" alt="Cloud9 Create" />
+<img src="../images/cloud9_create.png" alt="Cloud9 Create" />
 <p><em>Figure: Create Cloud9 environment</em></p>
 </div>
 
@@ -114,7 +114,7 @@ Key services we'll use:
 ### Open Cloud9
 
 <div style="text-align:center">
-<img src="images/open_create_cloud9.png" alt="Open Cloud9" />
+<img src="../images/open_create_cloud9.png" alt="Open Cloud9" />
 <p><em>Figure: Open Cloud9 IDE</em></p>
 </div>
 
@@ -128,7 +128,7 @@ Key services we'll use:
 ## Cloud9 IDE Overview
 
 <div style="text-align:center">
-<img src="images/cloud9_ide.png" alt="Cloud9 IDE" />
+<img src="../images/cloud9_ide.png" alt="Cloud9 IDE" />
 <p><em>Figure: Cloud9 IDE interface</em></p>
 </div>
 
@@ -195,7 +195,7 @@ df -lh
 ### Open DCV from Cloud9
 
 <div style="text-align:center">
-<img src="images/dcv_access.png" alt="DCV Access" />
+<img src="../images/dcv_access.png" alt="DCV Access" />
 <p><em>Figure: DCV access from Cloud9</em></p>
 </div>
 
@@ -204,7 +204,7 @@ df -lh
 3. Click the **expansion icon** to open in a new browser tab
 
 <div style="text-align:center">
-<img src="images/preview_icon.png" alt="Preview Icon" />
+<img src="../images/preview_icon.png" alt="Preview Icon" />
 <p><em>Figure: Preview expansion icon</em></p>
 </div>
 
@@ -213,7 +213,7 @@ df -lh
 When the desktop loads:
 
 <div style="text-align:center">
-<img src="images/desktop.png" alt="Desktop Startup" />
+<img src="../images/desktop.png" alt="Desktop Startup" />
 <p><em>Figure: DCV desktop startup</em></p>
 </div>
 
@@ -221,14 +221,14 @@ When the desktop loads:
 2. Click **Allow** when prompted for permissions
 
 <div style="text-align:center">
-<img src="images/desktop_allow.png" alt="Desktop Permission" />
+<img src="../images/desktop_allow.png" alt="Desktop Permission" />
 <p><em>Figure: Desktop permission dialog</em></p>
 </div>
 
 ### Configure Display for X Window
 
 <div style="text-align:center">
-<img src="images/check_cmd.png" alt="Check Command" />
+<img src="../images/check_cmd.png" alt="Check Command" />
 <p><em>Figure: Terminal command check</em></p>
 </div>
 
@@ -247,7 +247,7 @@ xeyes &
 You should see the "xeyes" application appear on your DCV desktop.
 
 <div style="text-align:center">
-<img src="images/xeyes.png" alt="Xeyes Test" />
+<img src="../images/xeyes.png" alt="Xeyes Test" />
 <p><em>Figure: Xeyes test application</em></p>
 </div>
 

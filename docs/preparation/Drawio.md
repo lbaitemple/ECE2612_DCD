@@ -49,7 +49,7 @@ Practice creating block diagrams by recreating the following two diagrams:
 ## 1. Finite State Machine (FSM) Diagram
 
 <div style="text-align:center">
-<img src="images/fsm.png" alt="FSM Block Diagram" />
+<img src="../images/fsm.png" alt="FSM Block Diagram" />
 <p><em>Figure: Finite State Machine block diagram</em></p>
 </div>
 
@@ -61,7 +61,7 @@ Recreate this FSM block diagram using draw.io. Pay attention to:
 ## 2. IR Remote Block Diagram
 
 <div style="text-align:center">
-<img src="images/ir_remote.png" alt="IR Remote Block Diagram" />
+<img src="../images/ir_remote.png" alt="IR Remote Block Diagram" />
 <p><em>Figure: IR Remote control block diagram</em></p>
 </div>
 
