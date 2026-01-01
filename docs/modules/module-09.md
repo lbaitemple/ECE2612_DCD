@@ -157,7 +157,7 @@ Design serial transmitter FSM:
 - Buttons for sensors
 - Demo video
 
-[Download Assignment Template](../../assignments/assignment-09.md)
+[Download Assignment Template](../assignments/assignment-09/)
 
 ---
 

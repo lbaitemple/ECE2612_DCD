@@ -117,7 +117,7 @@ Design 8-bit register with:
 - Display on LEDs
 - Demo video
 
-[Download Assignment Template](../../assignments/assignment-06.md)
+[Download Assignment Template](../assignments/assignment-06/)
 
 ---
 

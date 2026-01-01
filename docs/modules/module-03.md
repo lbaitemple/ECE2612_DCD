@@ -110,7 +110,7 @@ Fix provided buggy Verilog code:
 - Fix blocking/non-blocking errors
 - Document all changes
 
-[Download Assignment Template](../../assignments/assignment-03.md)
+[Download Assignment Template](../assignments/assignment-03/)
 
 ---
 

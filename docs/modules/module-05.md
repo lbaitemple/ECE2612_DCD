@@ -126,7 +126,7 @@ Design complete 8-bit ALU:
 - Display results on 7-segment displays
 - Demo video showing all operations
 
-[Download Assignment Template](../../assignments/assignment-05.md)
+[Download Assignment Template](../assignments/assignment-05/)
 
 ---
 

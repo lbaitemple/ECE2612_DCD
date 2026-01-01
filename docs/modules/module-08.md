@@ -118,7 +118,7 @@ Design clock displaying HH:MM:SS:
 - Buttons for time setting
 - Demo video
 
-[Download Assignment Template](../../assignments/assignment-08.md)
+[Download Assignment Template](../assignments/assignment-08/)
 
 ---
 

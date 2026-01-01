@@ -123,7 +123,7 @@ Given state machine with redundant states:
 - Display state on LEDs
 - Output on 7-segment display
 
-[Download Assignment Template](../../assignments/assignment-07.md)
+[Download Assignment Template](../assignments/assignment-07/)
 
 ---
 

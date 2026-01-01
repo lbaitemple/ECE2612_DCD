@@ -109,7 +109,7 @@ Design 8-bit comparator:
 - Optimize for speed
 - Implement and test
 
-[Download Assignment Template](../../assignments/assignment-04.md)
+[Download Assignment Template](../assignments/assignment-04/)
 
 ---
 

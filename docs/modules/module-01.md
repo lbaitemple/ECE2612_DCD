@@ -96,7 +96,7 @@ Implement 3-input majority function:
 - Test on DE10-Lite board
 - Submit code, pin assignments, demo video
 
-[Download Assignment Template](../../assignments/assignment-01.md)
+[Download Assignment Template](../assignments/assignment-01/)
 
 ---
 

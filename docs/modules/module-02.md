@@ -101,7 +101,7 @@ Design BCD to 7-segment decoder:
 - Calculate worst-case delay
 - Implement and test in Verilog
 
-[Download Assignment Template](../../assignments/assignment-02.md)
+[Download Assignment Template](../assignments/assignment-02/)
 
 ---
 

@@ -146,7 +146,7 @@ Design synchronous FIFO:
 - Test on DE10-Lite
 - Demo video
 
-[Download Assignment Template](../../assignments/assignment-10.md)
+[Download Assignment Template](../assignments/assignment-10/)
 
 ---
 

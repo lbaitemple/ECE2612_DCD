@@ -94,7 +94,7 @@ Expand the LED_Switch example:
 - What surprised you?
 - Questions about digital design?
 
-[Download Assignment Template](../../assignments/assignment-00.md)
+[Download Assignment Template](../assignments/assignment-00/)
 
 ---
 

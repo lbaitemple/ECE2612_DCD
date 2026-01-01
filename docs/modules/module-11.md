@@ -242,7 +242,7 @@ Design asynchronous FIFO:
 - Proper full/empty generation
 - Test with different clock ratios
 
-[Download Assignment Template](../../assignments/assignment-11.md)
+[Download Assignment Template](../assignments/assignment-11/)
 
 ---
 
