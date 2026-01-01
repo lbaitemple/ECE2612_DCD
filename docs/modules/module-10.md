@@ -154,8 +154,6 @@ Design synchronous FIFO:
 
 ### Lecture Materials
 - [Module 10 Slides](../../resources/lectures/module10_slides.pdf)
-- [Memory Design Patterns](../../resources/memory_patterns.pdf)
-- [FIFO Design Guide](../../resources/fifo_design.pdf)
 
 ### Intel FPGA Documentation
 - [Quartus Memory (RAM/ROM) User Guide](https://www.intel.com/content/www/us/en/docs/programmable/683082/)
@@ -165,11 +163,6 @@ Design synchronous FIFO:
 - RAM and ROM Fundamentals (25 min)
 - Dual-Port Memory Design (20 min)
 - FIFO Buffer Implementation (30 min)
-
-### Practice Problems
-- [Memory Design Exercises](../../practice/module10/memory_design.pdf)
-- [FIFO Problems](../../practice/module10/fifo_problems.pdf)
-- [Addressing Worksheets](../../practice/module10/addressing.pdf)
 
 ---
 

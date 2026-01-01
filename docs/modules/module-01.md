@@ -105,17 +105,11 @@ Implement 3-input majority function:
 ### Lecture Materials
 - [Module 1 Slides](../../resources/lectures/module01_slides.pdf)
 - [Boolean Algebra Reference](../../resources/boolean_algebra_ref.pdf)
-- [Gate Symbols Cheat Sheet](../../resources/gate_symbols.pdf)
 
 ### Video Tutorials
 - Boolean Algebra Basics (15 min)
 - De Morgan's Theorems Explained (12 min)
 - Circuit Design Walkthrough (25 min)
-
-### Practice Problems
-- [Number Conversions Worksheet](../../practice/module01/conversions.pdf)
-- [Boolean Simplification Problems](../../practice/module01/boolean.pdf)
-- [Truth Table Exercises](../../practice/module01/truth_tables.pdf)
 
 ### Helpful Links
 - [Interactive Logic Gate Simulator](https://logic.ly/)

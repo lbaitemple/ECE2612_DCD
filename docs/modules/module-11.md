@@ -250,8 +250,6 @@ Design asynchronous FIFO:
 
 ### Lecture Materials
 - [Module 11 Slides](../../resources/lectures/module11_slides.pdf)
-- [CDC Design Guide](../../resources/cdc_guide.pdf)
-- [Timing Optimization Techniques](../../resources/timing_opt.pdf)
 
 ### Intel Documentation
 - [Timing Analyzer User Guide](https://www.intel.com/content/www/us/en/docs/programmable/683617/)
@@ -265,11 +263,6 @@ Design asynchronous FIFO:
 - Metastability Explained (25 min)
 - Pipelining Techniques (30 min)
 - Timing Closure Strategies (40 min)
-
-### Practice Problems
-- [CDC Exercises](../../practice/module11/cdc_problems.pdf)
-- [Timing Analysis Worksheet](../../practice/module11/timing.pdf)
-- [Optimization Problems](../../practice/module11/optimization.pdf)
 
 ---
 

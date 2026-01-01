@@ -118,8 +118,6 @@ Fix provided buggy Verilog code:
 
 ### Lecture Materials
 - [Module 3 Slides](../../resources/lectures/module03_slides.pdf)
-- [Verilog Quick Reference](../../resources/verilog_reference.pdf)
-- [Common Coding Mistakes](../../resources/verilog_pitfalls.pdf)
 
 ### Interactive Learning
 - [HDLBits](https://hdlbits.01xz.net/) - Verilog practice problems

@@ -109,8 +109,6 @@ Design BCD to 7-segment decoder:
 
 ### Lecture Materials
 - [Module 2 Slides](../../resources/lectures/module02_slides.pdf)
-- [K-Map Tutorial](../../resources/kmap_guide.pdf)
-- [Combinational Building Blocks](../../resources/combinational_blocks.pdf)
 
 ### Interactive Tools
 - [K-Map Solver](https://www.charlie-coleman.com/experiments/kmap/)
@@ -121,11 +119,6 @@ Design BCD to 7-segment decoder:
 - K-Map Minimization Master Class (30 min)
 - Multiplexer Design Patterns (20 min)
 - 7-Segment Display Decoder (25 min)
-
-### Practice Problems
-- [K-Map Practice Set](../../practice/module02/kmap_problems.pdf)
-- [MUX/DEMUX Exercises](../../practice/module02/mux_demux.pdf)
-- [Decoder Design Problems](../../practice/module02/decoders.pdf)
 
 ---
 

@@ -192,18 +192,11 @@ You can complete most assignments using:
 
 1. **DE10-Lite Resources**:
    - [User Manual](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=218&No=1021&PartNo=4)
-   - [Default Configuration File](../etc/DE10_LITE_Default.pof)
-   - [Pin Assignment Reference](../etc/DE10-Lite_pinout.pdf)
 
 2. **Example Projects**:
    - [LED Blinker](../examples/led_blinker.zip)
    - [7-Segment Display](../examples/seven_segment.zip)
    - [Switch Control](../examples/switch_led.zip)
-
-3. **Reference Documents**:
-   - [Verilog Quick Reference](../resources/verilog_reference.pdf)
-   - [Quartus Shortcuts](../resources/quartus_shortcuts.pdf)
-   - [Debugging Guide](../resources/debugging_guide.pdf)
 
 ---
 

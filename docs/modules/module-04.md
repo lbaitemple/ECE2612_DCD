@@ -117,8 +117,6 @@ Design 8-bit comparator:
 
 ### Lecture Materials
 - [Module 4 Slides](../../resources/lectures/module04_slides.pdf)
-- [Signed Number Systems](../../resources/signed_numbers.pdf)
-- [BCD Arithmetic Guide](../../resources/bcd_arithmetic.pdf)
 
 ### Interactive Tools
 - [Number Base Converter](https://www.rapidtables.com/convert/number/base-converter.html)
@@ -129,11 +127,6 @@ Design 8-bit comparator:
 - 2's Complement Explained (18 min)
 - Binary to BCD Conversion (15 min)
 - Fixed-Point Arithmetic (25 min)
-
-### Practice Problems
-- [Number System Worksheets](../../practice/module04/number_systems.pdf)
-- [2's Complement Exercises](../../practice/module04/twos_complement.pdf)
-- [BCD Conversion Practice](../../practice/module04/bcd_practice.pdf)
 
 ---
 

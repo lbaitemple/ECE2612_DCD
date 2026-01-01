@@ -125,8 +125,6 @@ Design 8-bit register with:
 
 ### Lecture Materials
 - [Module 6 Slides](../../resources/lectures/module06_slides.pdf)
-- [Flip-Flop Types Comparison](../../resources/flipflop_comparison.pdf)
-- [Timing Parameters Guide](../../resources/timing_analysis.pdf)
 
 ### Interactive Tools
 - [Flip-Flop Simulator](https://www.electronics-tutorials.ws/)
@@ -137,11 +135,6 @@ Design 8-bit register with:
 - Latches vs Flip-Flops Explained (18 min)
 - Timing Parameters Deep Dive (25 min)
 - Metastability and Clock Domain Crossing (22 min)
-
-### Practice Problems
-- [Flip-Flop Conversion Exercises](../../practice/module06/conversions.pdf)
-- [Timing Analysis Worksheets](../../practice/module06/timing.pdf)
-- [Sequential Circuit Problems](../../practice/module06/sequential.pdf)
 
 ---
 

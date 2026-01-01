@@ -131,8 +131,6 @@ Given state machine with redundant states:
 
 ### Lecture Materials
 - [Module 7 Slides](../../resources/lectures/module07_slides.pdf)
-- [State Machine Design Guide](../../resources/fsm_design_guide.pdf)
-- [Moore vs Mealy Comparison](../../resources/moore_mealy.pdf)
 
 ### Interactive Tools
 - [State Machine Designer](https://madebyevan.com/fsm/)
@@ -143,11 +141,6 @@ Given state machine with redundant states:
 - Sequential Circuit Analysis Walkthrough (30 min)
 - State Machine Design Methodology (35 min)
 - Moore vs Mealy State Machines (20 min)
-
-### Practice Problems
-- [State Diagram Exercises](../../practice/module07/state_diagrams.pdf)
-- [Sequential Analysis Problems](../../practice/module07/analysis.pdf)
-- [State Reduction Worksheet](../../practice/module07/reduction.pdf)
 
 ---
 

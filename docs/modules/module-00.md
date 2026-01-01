@@ -101,7 +101,6 @@ Expand the LED_Switch example:
 ## Resources
 
 ### Documentation
-- [DE10-Lite User Manual](../../etc/DE10-Lite_manual.pdf)
 - [Quartus Prime User Guide](https://www.intel.com/content/www/us/en/docs/programmable/683432/)
 - [Module 0 Lecture Slides](../../resources/lectures/module00_slides.pdf)
 

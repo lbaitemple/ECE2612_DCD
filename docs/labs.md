@@ -203,14 +203,7 @@ Located in `labs/etc/`:
 ## Lab Resources
 
 ### Equipment Guides
-- [DE10-Lite Quick Reference](../resources/DE10-Lite_quickref.pdf)
-- [Oscilloscope Tutorial](../resources/scope_tutorial.pdf)
-- [Logic Analyzer Guide](../resources/logic_analyzer.pdf)
-
-### Software
-- [Quartus Workflows](../resources/quartus_workflows.pdf)
-- [ModelSim Commands](../resources/modelsim_ref.pdf)
-- [Debugging Techniques](../resources/debugging.pdf)
+- [DE10-Lite Pin Assignments](resources/DE10-Lite_Pins.pdf)
 
 ### Templates
 - [Lab Report Template](../resources/lab_report_template.docx)

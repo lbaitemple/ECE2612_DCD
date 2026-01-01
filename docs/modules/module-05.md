@@ -134,8 +134,6 @@ Design complete 8-bit ALU:
 
 ### Lecture Materials
 - [Module 5 Slides](../../resources/lectures/module05_slides.pdf)
-- [Adder Architectures](../../resources/adder_types.pdf)
-- [ALU Design Guide](../../resources/alu_design.pdf)
 
 ### Interactive Tools
 - [Logic Circuit Simulator](https://www.falstad.com/circuit/)
@@ -146,11 +144,6 @@ Design complete 8-bit ALU:
 - Ripple-Carry vs Carry-Lookahead (22 min)
 - Binary Multiplication Algorithms (28 min)
 - Complete ALU Design Walkthrough (35 min)
-
-### Practice Problems
-- [Adder Design Exercises](../../practice/module05/adders.pdf)
-- [ALU Operation Problems](../../practice/module05/alu_problems.pdf)
-- [Timing Analysis Worksheet](../../practice/module05/timing.pdf)
 
 ---
 

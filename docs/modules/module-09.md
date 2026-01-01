@@ -165,8 +165,6 @@ Design serial transmitter FSM:
 
 ### Lecture Materials
 - [Module 9 Slides](../../resources/lectures/module09_slides.pdf)
-- [FSM Design Patterns](../../resources/fsm_patterns.pdf)
-- [State Encoding Guide](../../resources/state_encoding.pdf)
 
 ### Interactive Tools
 - [FSM Designer](https://madebyevan.com/fsm/) - Visual state machine editor
@@ -178,11 +176,6 @@ Design serial transmitter FSM:
 - Verilog FSM Coding Styles (30 min)
 - Traffic Light Controller Example (45 min)
 - Datapath + Control Architecture (35 min)
-
-### Practice Problems
-- [FSM Design Exercises](../../practice/module09/fsm_design.pdf)
-- [State Encoding Problems](../../practice/module09/encoding.pdf)
-- [Controller Specification Worksheets](../../practice/module09/controllers.pdf)
 
 ---
 

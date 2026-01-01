@@ -126,8 +126,6 @@ Design clock displaying HH:MM:SS:
 
 ### Lecture Materials
 - [Module 8 Slides](../../resources/lectures/module08_slides.pdf)
-- [Counter Design Patterns](../../resources/counter_patterns.pdf)
-- [Shift Register Applications](../../resources/shift_register_apps.pdf)
 
 ### Interactive Tools
 - [Digital Circuit Simulator](https://www.falstad.com/circuit/)
@@ -138,11 +136,6 @@ Design clock displaying HH:MM:SS:
 - Binary Counter Design (20 min)
 - Shift Register Types and Uses (25 min)
 - Digital Clock Design Walkthrough (35 min)
-
-### Practice Problems
-- [Counter Design Exercises](../../practice/module08/counters.pdf)
-- [Shift Register Problems](../../practice/module08/shift_regs.pdf)
-- [Timer Circuit Worksheets](../../practice/module08/timers.pdf)
 
 ---
 

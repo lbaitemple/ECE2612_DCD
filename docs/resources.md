@@ -167,10 +167,7 @@ All examples include source code, testbenches, and documentation:
 - ...and so on for all modules
 
 ### Problem Sets
-- [Boolean Algebra Worksheet](practice/boolean_algebra.pdf)
-- [K-Map Practice](practice/kmap_problems.pdf)
-- [Timing Analysis Problems](practice/timing_analysis.pdf)
-- [State Machine Design](practice/fsm_design.pdf)
+- Practice worksheets available in each module
 
 ### Solutions
 - Available after assignment due dates
